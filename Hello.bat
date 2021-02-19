@@ -1,1 +1,1 @@
-Hello and how are you ?
+echo "Hello and how are you ?"
